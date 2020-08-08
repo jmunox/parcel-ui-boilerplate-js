@@ -1,0 +1,13 @@
+@charset "utf-8";
+@import "bulma/sass/utilities/_all"; // bulma-utilities;
+@import "bulma/sass/base/_all"; // bulma-base;
+
+body {
+  //font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+}

@@ -82,6 +82,8 @@
   "alias": {
     "components": "./src/components",
     "stores": "./src/stores",
-    "utils": "./src/utils"
+    "utils": "./src/utils",
+    "react": "./node_modules/preact/compat",
+    "react-dom": "./node_modules/preact/compat"
   }
 }

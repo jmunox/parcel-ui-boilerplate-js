@@ -10,7 +10,7 @@ export default view(() => {
   return (
     <div className={css.container} >
       <div className={css.title}>Home Page</div>
-      <div className={classNames(css.mozColumns)}>
+      <div className={classNames(css.columns)}>
         <div className={classNames(css.column, css.isOneFifth)} >
           <button className={classNames(css.button, css.isFullwidth)} data-fetch onClick={fetchItems}>
             Fetch API

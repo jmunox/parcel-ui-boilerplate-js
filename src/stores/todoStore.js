@@ -1,4 +1,4 @@
-import { store } from 'react-easy-state'
+import { store } from '@risingstack/react-easy-state'
 import { reqGet, reqPost } from 'utils/Req'
 
 // Example: https://github.com/solkimicreb/react-easy-state/tree/master/examples/todo-mvc

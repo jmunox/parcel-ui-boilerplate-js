@@ -1,6 +1,6 @@
-# 🚀 Parcel UI
+# 🚀 Parcel2 UI
 
-Parcel + React/Preact + Router + CSS Modules + SASS + Api-Now + Bulma
+Parcel2 + React + Router + CSS Modules + SASS + Api-Now + Bulma
 
 Lightweight version, Based on the work of https://github.com/ngduc/parcelui
 

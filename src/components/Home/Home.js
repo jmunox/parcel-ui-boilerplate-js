@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { view } from 'react-easy-state'
+import { view } from '@risingstack/react-easy-state'
 import todoStore from 'stores/todoStore'
 import classNames from 'classnames'
 

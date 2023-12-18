@@ -1,7 +1,7 @@
 .DS_Store
 /**/.DS_Store
 
-.cache
+.parcel-cache
 dist
 
 # Use yarn.lock instead

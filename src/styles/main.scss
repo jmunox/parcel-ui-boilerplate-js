@@ -1,6 +1,6 @@
 @charset "utf-8";
-@import "node_modules/bulma/sass/utilities/_all"; // bulma-utilities;
-@import "node_modules/bulma/sass/base/_all"; // bulma-base;
+@forward "bulma/bulma";
+@forward "bulma/sass/_index";
 
 body {
   //font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
